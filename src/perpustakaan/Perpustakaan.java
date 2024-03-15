@@ -9,7 +9,9 @@ package perpustakaan;
 public class Perpustakaan {
 
     public static HalamanUtamaUI halamanUtamaUI;
+    public static PeminjamanController controllerPeminjaman;
     public static PencarianController controllerPencarian;
+    public static FormPeminjaman formPeminjaman;
     public static FormPencarian formPencarian;
     public static DialogUI dialogUI;
     public static BukuProvider bukuProvider;
